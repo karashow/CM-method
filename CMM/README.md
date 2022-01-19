@@ -1,13 +1,13 @@
 # Description
 
-Here a description of the files. 
-  - `CM_method.sage` contains an algorithm for the CM method.
-  - `ClassPoly.sage` contains functions proving the computation of the Hilbert and the Weber-gamma polynomial.
-  - `ModFun.sage` is made up of funtions which evaluate mofular forms.
-  - `test.sage` contains various tests functions.
+Here a description of this folder. You can find 
+  - `CM_method.sage`: contains an algorithm for the CM method.
+  - `ClassPoly.sage`: contains functions proving the computation of the Hilbert and the Weber-gamma polynomial.
+  - `cornacchia.sage`: contains the Cornacchia algorithm.
+  - `arithmetic.sage`: contains some arithmetic functions.
 
 # Instructions
 
-In order to create your own CM elliptic curve just load `main.sage` file.
+To create your own CM elliptic curve just load `main.sage` file.
 
 
