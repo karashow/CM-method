@@ -1,3 +1,5 @@
+A list of class polynomials for discriminants smaller than -200
+
 --
 Discriminant: -3
 Hilbert class polynomial: x

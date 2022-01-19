@@ -1,10 +1,12 @@
-# TEST FUNCTIONS & EXPERIMENTS
+# TEST FUNCTIONS: check the accuracy of our algorithms
 
 load('CM_method.sage')
 
+# TESTS FOR THE CLASS POLYNOMIALS
+
 # Check if our hilbert polynomial is correct
 #
-# 1. rapid test
+# 1. quick test
 def is_hilb(D):
     if D == -4 or D == -3:
         return true
@@ -25,7 +27,7 @@ def hilb_test(n):
 
 # Check if our weber gamma polynomial is correct
 #
-# 1. rapid test: check one single discriminant
+# 1. quick test: check one single discriminant
 def is_gamma(D):
     R.<x,y> = QQ[]
     S.<z> = QQ[]
@@ -78,7 +80,9 @@ def test_myCMM(N):
     else:
         return false
 
-# PRINT POLYNOMIALS AN ELLIPTIC CURVES
+###################################################################################
+
+# PRINT POLYNOMIALS AND ELLIPTIC CURVES
 
 # This function prints the first N Hilbert class polynomials
 def print_hilbert_poly(n):
@@ -120,9 +124,3 @@ def print_curve(n):
         print('Cardinality:', i)
         print(CMM(i))
     print('--')
-
-# Generator of elliptic curves
-def generate_curve():
-    N = int(input("Type the desired number of rational point and press ENTER: "))
-    E = CMM(N)
-    print(E)
