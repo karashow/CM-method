@@ -3,7 +3,9 @@
 A working implementation of the CM method is given.
 We provide the ingedients to construct elliptic curves over the finite field GF(p) with a prescribed number of 
 rational points. In particular:
-  - The class polynomials;
+  - The class polynomials.
   - The Cornacchia algorithm.  
 
-# Disclaimer:
+## Class polynomials
+
+## Arithmetic functions
