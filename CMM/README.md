@@ -6,8 +6,10 @@ Here a description of this folder. You can find
   - `cornacchia.sage`: contains the Cornacchia algorithm.
   - `arithmetic.sage`: contains some arithmetic functions.
 
+A list of class polynomyals is given in the Examples folder.
+
 # Instructions
 
-To create your own CM elliptic curve just load `main.sage` file.
+To create your own CM elliptic curve just load the `main.sage` file.
 
 
