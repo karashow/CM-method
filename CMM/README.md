@@ -14,4 +14,4 @@ To create your own CM elliptic curve just download this folder and run
 
 > `sage: load('main.sage')`
 
-
+if you use SageMath form the shell.
