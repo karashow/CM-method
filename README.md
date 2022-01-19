@@ -8,4 +8,7 @@ rational points. In particular:
 
 ## Class polynomials
 
+Hilbert polynomials and Weber gamma-polynomials 
+
+
 ## Arithmetic functions
