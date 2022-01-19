@@ -1,3 +1,5 @@
+# Generator of CM elliptic curves
+
 import time
 load('test.sage')
 
@@ -15,6 +17,3 @@ if E.cardinality() == N:
     time = final - init
     print("Time execution:", time, "seconds.")
 
-
-# Comments:
-# for N = 10055 the discriminant found was D = -12331
