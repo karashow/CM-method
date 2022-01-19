@@ -2,8 +2,9 @@
 
 Here a description of the files. 
   - `CM_method.sage` contains an algorithm for the CM method.
-  - `classpoly.sage` contains the functions that provide the computation of the Hilbert and the Weber-gamma polynomial.
-
+  - `ClassPoly.sage` contains functions proving the computation of the Hilbert and the Weber-gamma polynomial.
+  - `ModFun.sage` is made up of funtions which evaluate mofular forms.
+  - `test.sage` contains various tests functions.
 
 # Instructions
 
