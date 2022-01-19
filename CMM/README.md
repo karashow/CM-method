@@ -12,6 +12,6 @@ A list of class polynomyals is given in the Examples folder.
 
 To create your own CM elliptic curve just download this folder and run
 
-> load the `main.sage` file.
+> `sage: load('main.sage')`
 
 
