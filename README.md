@@ -6,8 +6,9 @@ rational points. In particular:
   - The class polynomials.
   - The Cornacchia algorithm.  
 
-## Class polynomials 
+## Class polynomials
 
-bla bla bla
+Hilbert polynomials and Weber gamma-polynomials 
+
 
 ## Arithmetic functions
